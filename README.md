@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Devparmar0823/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Devparmar0823/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Simulation
@@ -20,9 +21,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Devparmar0823/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Devparmar0823/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
