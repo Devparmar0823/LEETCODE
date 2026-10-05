@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Devparmar0823/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
