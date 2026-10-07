@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/Devparmar0823/LEETCODE/tree/master/0441-arranging-coins) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Devparmar0823/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Devparmar0823/LEETCODE/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Devparmar0823/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devparmar0823/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Devparmar0823/LEETCODE/tree/master/0441-arranging-coins) |
+## Number Theory
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
