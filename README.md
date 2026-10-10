@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devparmar0823/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Devparmar0823/LEETCODE/tree/master/0441-arranging-coins) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Number Theory
 |  |
 | ------- |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
