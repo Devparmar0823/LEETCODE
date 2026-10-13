@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Devparmar0823/LEETCODE/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Devparmar0823/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Devparmar0823/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Devparmar0823/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Devparmar0823/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Devparmar0823/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Devparmar0823/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devparmar0823/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
