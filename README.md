@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Devparmar0823/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Devparmar0823/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Linked List
 |  |
 | ------- |
