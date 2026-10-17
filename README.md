@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Devparmar0823/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Devparmar0823/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devparmar0823/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devparmar0823/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Devparmar0823/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Devparmar0823/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -188,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Devparmar0823/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Devparmar0823/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Devparmar0823/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Devparmar0823/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
