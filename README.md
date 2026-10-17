@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Devparmar0823/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Devparmar0823/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devparmar0823/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Devparmar0823/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
@@ -278,5 +281,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Devparmar0823/LEETCODE/tree/master/1791-find-center-of-star-graph) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
