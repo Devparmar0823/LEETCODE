@@ -1,26 +1,25 @@
 class Solution:
-    def findMaximumXOR(self, nums: List[int]) -> int:
-        root = {}
-        maxXor = 0
-        for num in nums:
-            node = root
-            for i in range(31, -1, -1):
-                bit = (num >> i) & 1
-                if bit not in node:
-                    node[bit] = {}
-                node = node[bit]
-        for num in nums:
-            node = root
-            currentXor = 0
-            for i in range(31, -1, -1):
-                bit = (num >> i) & 1
-                toggledBit = 1 - bit
-                if toggledBit in node:
-                    currentXor |= (1 << i)
-                    node = node[toggledBit]
-                else:
-                    node = node[bit]
-                    
-            maxXor = max(maxXor, currentXor)
+    def findMaximumXOR(self, nums: list[int]) -> int:
+        max_xor = 0
+        mask = 0
+        
+        # Consider a 32-bit integer. Standard constraint is usually up to 10^5, 
+        # so 31 bits (0 to 30) are sufficient for non-negative integers.
+        for i in range(30, -1, -1):
+            # The mask helps us isolate the prefixes of the numbers up to bit i
+            mask |= (1 << i)
             
-        return maxXor
+            # Extract the prefixes of all numbers down to the i-th bit
+            prefixes = {num & mask for num in nums}
+            
+            # Greedy choice: Can we achieve a '1' at the i-th bit position?
+            candidate = max_xor | (1 << i)
+            
+            # XOR property: If A ^ B = C, then A ^ C = B.
+            # If 'candidate ^ pref' exists in our set, then 'candidate' is achievable.
+            for pref in prefixes:
+                if (candidate ^ pref) in prefixes:
+                    max_xor = candidate
+                    break
+                    
+        return max_xor
