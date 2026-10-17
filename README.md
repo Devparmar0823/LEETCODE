@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devparmar0823/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devparmar0823/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devparmar0823/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Devparmar0823/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Devparmar0823/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Devparmar0823/LEETCODE/tree/master/0441-arranging-coins) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Number Theory
 |  |
