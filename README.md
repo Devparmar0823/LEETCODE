@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devparmar0823/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Devparmar0823/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Devparmar0823/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Devparmar0823/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Devparmar0823/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Devparmar0823/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Devparmar0823/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Devparmar0823/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Devparmar0823/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Devparmar0823/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Devparmar0823/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Devparmar0823/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Devparmar0823/LEETCODE/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Devparmar0823/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Devparmar0823/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Devparmar0823/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/Devparmar0823/LEETCODE/tree/master/1631-path-with-minimum-effort) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Devparmar0823/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Devparmar0823/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Biconnected Component
 |  |
@@ -374,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Devparmar0823/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Devparmar0823/LEETCODE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
