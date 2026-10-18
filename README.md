@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Devparmar0823/LEETCODE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Devparmar0823/LEETCODE/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/Devparmar0823/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devparmar0823/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devparmar0823/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Devparmar0823/LEETCODE/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Devparmar0823/LEETCODE/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Devparmar0823/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Devparmar0823/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
