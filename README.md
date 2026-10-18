@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Devparmar0823/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Devparmar0823/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Devparmar0823/LEETCODE/tree/master/0441-arranging-coins) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Devparmar0823/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Devparmar0823/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Devparmar0823/LEETCODE/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Devparmar0823/LEETCODE/tree/master/0162-find-peak-element) |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Devparmar0823/LEETCODE/tree/master/0785-is-graph-bipartite) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Devparmar0823/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
