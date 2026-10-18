@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devparmar0823/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Devparmar0823/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devparmar0823/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Devparmar0823/LEETCODE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
