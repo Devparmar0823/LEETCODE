@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devparmar0823/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Devparmar0823/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/Devparmar0823/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Devparmar0823/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Devparmar0823/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/Devparmar0823/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 | [1791-find-center-of-star-graph](https://github.com/Devparmar0823/LEETCODE/tree/master/1791-find-center-of-star-graph) |
 ## Bitmask
 |  |
@@ -359,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Devparmar0823/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Devparmar0823/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Devparmar0823/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
