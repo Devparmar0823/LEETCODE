@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Devparmar0823/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Devparmar0823/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Devparmar0823/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Linked List
 |  |
 | ------- |
