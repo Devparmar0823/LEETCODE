@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devparmar0823/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2706-buy-two-chocolates](https://github.com/Devparmar0823/LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Devparmar0823/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
+| [2706-buy-two-chocolates](https://github.com/Devparmar0823/LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Devparmar0823/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2706-buy-two-chocolates](https://github.com/Devparmar0823/LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Linked List
