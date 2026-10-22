@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Devparmar0823/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Devparmar0823/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Devparmar0823/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Devparmar0823/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Devparmar0823/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Devparmar0823/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Devparmar0823/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devparmar0823/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Devparmar0823/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Devparmar0823/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Devparmar0823/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Devparmar0823/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Tree
 |  |
 | ------- |
@@ -433,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Devparmar0823/LEETCODE/tree/master/0069-sqrtx) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
