@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Devparmar0823/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Devparmar0823/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Devparmar0823/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3870-count-commas-in-range](https://github.com/Devparmar0823/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/Devparmar0823/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
