@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Devparmar0823/LEETCODE/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Devparmar0823/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Devparmar0823/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Devparmar0823/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Devparmar0823/LEETCODE/tree/master/3870-count-commas-in-range) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Devparmar0823/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Devparmar0823/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Devparmar0823/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Devparmar0823/LEETCODE/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Devparmar0823/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/Devparmar0823/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## Stack
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Primality Test
 |  |
 | ------- |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
