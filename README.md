@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Devparmar0823/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Devparmar0823/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Devparmar0823/LEETCODE/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Devparmar0823/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Devparmar0823/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Devparmar0823/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Devparmar0823/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Devparmar0823/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Devparmar0823/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Devparmar0823/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Devparmar0823/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
