@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Devparmar0823/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Devparmar0823/LEETCODE/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Devparmar0823/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2574-left-and-right-sum-differences](https://github.com/Devparmar0823/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Devparmar0823/LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Devparmar0823/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Devparmar0823/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
