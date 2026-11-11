@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Devparmar0823/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Devparmar0823/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Devparmar0823/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Devparmar0823/LEETCODE/tree/master/3668-restore-finishing-order) |
