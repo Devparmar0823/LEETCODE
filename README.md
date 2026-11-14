@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Devparmar0823/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Devparmar0823/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Devparmar0823/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Devparmar0823/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Devparmar0823/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Devparmar0823/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Devparmar0823/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devparmar0823/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Devparmar0823/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Devparmar0823/LEETCODE/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Devparmar0823/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Devparmar0823/LEETCODE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Devparmar0823/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Devparmar0823/LEETCODE/tree/master/0827-making-a-large-island) |
