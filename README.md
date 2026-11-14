@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Devparmar0823/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Devparmar0823/LEETCODE/tree/master/3917-count-indices-with-opposite-parity) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
