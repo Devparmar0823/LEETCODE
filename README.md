@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Devparmar0823/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Devparmar0823/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/Devparmar0823/LEETCODE/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/Devparmar0823/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [3248-snake-in-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/3248-snake-in-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Devparmar0823/LEETCODE/tree/master/3894-traffic-signal-color) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/Devparmar0823/LEETCODE/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Devparmar0823/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/Devparmar0823/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2678-number-of-senior-citizens](https://github.com/Devparmar0823/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/Devparmar0823/LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
