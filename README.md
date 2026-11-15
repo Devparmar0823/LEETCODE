@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devparmar0823/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Devparmar0823/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devparmar0823/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Devparmar0823/LEETCODE/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Devparmar0823/LEETCODE/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/3248-snake-in-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Devparmar0823/LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Devparmar0823/LEETCODE/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Devparmar0823/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Devparmar0823/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3115-maximum-prime-difference](https://github.com/Devparmar0823/LEETCODE/tree/master/3115-maximum-prime-difference) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Devparmar0823/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devparmar0823/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Devparmar0823/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Devparmar0823/LEETCODE/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Devparmar0823/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quicksort
 |  |
