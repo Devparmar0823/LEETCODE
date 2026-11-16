@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devparmar0823/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Devparmar0823/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devparmar0823/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1572-matrix-diagonal-sum](https://github.com/Devparmar0823/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Devparmar0823/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Devparmar0823/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Devparmar0823/LEETCODE/tree/master/1652-defuse-the-bomb) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Devparmar0823/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Devparmar0823/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Devparmar0823/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
