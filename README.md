@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Devparmar0823/LEETCODE/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Devparmar0823/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Devparmar0823/LEETCODE/tree/master/0441-arranging-coins) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Devparmar0823/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devparmar0823/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Devparmar0823/LEETCODE/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Devparmar0823/LEETCODE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Devparmar0823/LEETCODE/tree/master/0268-missing-number) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Devparmar0823/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devparmar0823/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Devparmar0823/LEETCODE/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Devparmar0823/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Devparmar0823/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Devparmar0823/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
