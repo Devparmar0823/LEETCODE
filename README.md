@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3248-snake-in-matrix](https://github.com/Devparmar0823/LEETCODE/tree/master/3248-snake-in-matrix) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Devparmar0823/LEETCODE/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Devparmar0823/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Devparmar0823/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
