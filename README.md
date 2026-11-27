@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Devparmar0823/LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devparmar0823/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Devparmar0823/LEETCODE/tree/master/2501-longest-square-streak-in-an-array) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Devparmar0823/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Array
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Devparmar0823/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Devparmar0823/LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Devparmar0823/LEETCODE/tree/master/3917-count-indices-with-opposite-parity) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Devparmar0823/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Devparmar0823/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
